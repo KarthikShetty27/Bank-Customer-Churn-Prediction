@@ -1,0 +1,71 @@
+p,h2 {
+    /* Just for Debugging */
+    /* border: solid green; */
+    padding: 20px;
+    background-color: #FDEEDC;
+    margin: auto;
+}
+
+body{
+    background-color:  #F1A661;
+    /* Just for Debugging */
+    /* border: solid orange; */
+    padding: 20px;
+}
+
+div{
+  /* Just for Debugging */
+  /* border: solid blue; */
+    padding: 10px;
+    background-color: #FFD8A9;
+}
+
+hr{
+  border: 12px dotted #E45826;
+  background-color: #FFD8A9;
+  border-bottom: 0px;
+  width: 12%;
+  margin: 15px auto 5px;
+
+}
+
+/* Predict Page body  */
+.Result_Pred_Page{
+  background-color:#FFD8A9;
+}
+
+
+/* CSS for the Forms */
+
+form{
+    width:80%;
+    /* Just for Debugging */
+    /* border: solid blueviolet; */
+    padding: 20px;
+    /* text-align: center; */
+    line-height: 26px;
+    margin: auto;
+  }
+
+input[type=number] {
+    width: 100%;
+    padding: 16px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #FCF8E8;
+  }
+
+select {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    border-bottom: 2px solid #FCF8E8;
+  }
+
+.footer{
+  text-align: center;
+}
