@@ -1,6 +1,9 @@
 # Heres a comment
+/Code
+/Data_Files
 *.ipynb
 *.pdf
 *.py
 *.csv
 *.md
+*.gitignore
